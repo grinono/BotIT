@@ -7,13 +7,12 @@ Chatbot dialog conversation builder and marketplace
 <img width="1440" alt="schermafbeelding 2017-12-19 om 17 57 33" src="https://user-images.githubusercontent.com/4255206/34168991-3b57f806-e4e6-11e7-8cfa-a6a6a3f77813.png">
 
 Just put a day into the this project. 
-Idea to see if there is any interest in a dialog agnostic platform. A platform that can be maintained as a microservice next to the AI platform.
-But switch any AI platform should take not take more then a few minutes.
+Idea to see if there is any interest in a dialog agnostic platform. A platform that can be maintained as a microservice next to any of the AI platforms.
 If their is interst i will put in effort to create this repro.
 
 What:
 - Seperate the Dialog elements from any of the AI platforms
-- Create a marketplace for dialogs, So you can add inteligence to your own bot in seconds without any effort of creating intents, entities and awnsers
+- Create a marketplace for dialogs, So you can add intelligence dialogs to your own bot in seconds without any effort of creating intents, entities and awnsers. Public bots you can integrate into yours bot. Wiki / Github open bots.
 - Easy to use GUI / UI intuative. Only add code when GUI does not provivde interest
 - webhooks for custom data intergration
 
