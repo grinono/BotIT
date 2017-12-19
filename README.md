@@ -17,7 +17,7 @@ What:
 - webhooks for custom data intergration
 
 How:
-- apolloData (graphQL API for client)
+- ApolloData (graphQL API for client)
 - NodeJS (server)
 - React (client)
 - Redux (state management)
