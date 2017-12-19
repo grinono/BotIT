@@ -31,3 +31,6 @@ Wit.ai > no dialog management available
 LUIS.ai > no dialog management available
 Dialogflow > hard create a good overview of the Intents
 Watson > good Dialog creation but locked to Watson
+
+
+Who: Anyone how is interested to contribute, lets have chat
